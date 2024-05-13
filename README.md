@@ -1,4 +1,5 @@
 # NVIDIA Computer Vision Research
+## 9 Months Research Collaborator at Prof. Stan Birchfield's Research Group with Dr. Jonathan Tremblay
 
 ## Overview
 
