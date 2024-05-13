@@ -32,7 +32,34 @@ This repository showcases my contributions to a computer vision research project
 
 
 ## Samples of the Results
-![]()
+### **Texture Mapping:**
+![Texture Mapping Part 1](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Texture%20Mapping%201.png)
+
+![Texture Mapping Part 2](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Texture%20Mapping%202.png)
+
+
+### **Spatial Coordinates:**
+![Spatial Coordinates Part 1](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Spatial_Coordinates%201.png)
+
+![Spatial Coordinates Part 2](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Spatial%20Coordinates%202.png)
+
+![Spatial Coordinates Part 3](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Spatial%20Coordinates%203.png)
+
+### **Pixel Coordinates:**
+![Pixel Coordinates Part 1](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Pixel%20Coordinates%201.png)
+
+![Pixel Coordinates Part 2](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Pixel%20Coordinates%202.png)
+
+![Pixel Coordinates Part 3](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Pixel%20Coordinates%203.png)
+
+![Pixel Coordinates Part 4](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Pixel%20Coordinates%204.png)
+
+
+
+### **Demo the Process and Results of the matching Vertices:**
+![Demo the Process and Results of the matching Vertices Part 1](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Demo%20the%20Process%20and%20Results%201.png)
+
+![Demo the Process and Results of the matching Vertices Part 2](https://github.com/Naif-Ganadily/NVIDIA-Computer-Vision-Research/blob/main/Samples%20of%20the%20Results/Demo%20the%20Process%20and%20Results%202.png)
 
 
 
