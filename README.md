@@ -29,36 +29,9 @@ This repository showcases my contributions to a computer vision research project
 - **Git**
 - **GitHub**
 
-## Getting Started
 
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Python
-- Blender
-- VS Code
-- Git
-
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/NVIDIA-Computer-Vision-Research.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd NVIDIA-Computer-Vision-Research
-    ```
-3. Install the required Python packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-
-## Results
-The results of the vertex data analysis and the comparison between synthetic and real images are documented in the results directory.
+## Samples of the Results
+![]()
 
 
 
